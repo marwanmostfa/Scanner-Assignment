@@ -1,0 +1,2 @@
+List of TokenValues and TokenTypes
+x12, Syntax ERROR
